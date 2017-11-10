@@ -17,5 +17,5 @@ const leastFavoriteCustomer = 'sam'
 
 changeLeastFavoriteCustomer(){
 
-  const leastFavoriteCustomer = 'julie'
+   leastFavoriteCustomer = 'julie'
 }
